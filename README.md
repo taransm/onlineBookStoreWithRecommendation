@@ -53,3 +53,27 @@ JavaServer Pages (JSP)
 WildFly
 </li>
 </ul>
+  
+   ![t8-04](https://user-images.githubusercontent.com/67748452/165385877-3f04b899-2aff-41d5-8991-e507850f293b.png)
+![t8-05](https://user-images.githubusercontent.com/67748452/165385880-2cdd7d86-06bd-4995-afa0-0e45342bfccb.png)
+![t8-06](https://user-images.githubusercontent.com/67748452/165385881-cddb4215-0271-4cfd-8985-5195b5c4d6c1.png)
+![t8-07](https://user-images.githubusercontent.com/67748452/165385884-821ad8aa-613b-4984-b2d8-4bd271bd9c68.png)
+![t8-08](https://user-images.githubusercontent.com/67748452/165385886-c7f8c28c-ba4c-4e88-9d9e-96b3e2a8a73b.png)
+![t9-01](https://user-images.githubusercontent.com/67748452/165385889-1caec2cf-d461-466a-acd2-13ad0ef6a7f7.png)
+![t9-02](https://user-images.githubusercontent.com/67748452/165385891-a8428d4c-99bd-4c93-97d0-001f3bc967f6.png)
+![t9-03](https://user-images.githubusercontent.com/67748452/165385892-4ed8c77f-9e9a-4e39-9a8d-070286ccbf88.png)
+![t9-04](https://user-images.githubusercontent.com/67748452/165385894-a841df18-51f0-45c8-9580-832acb7d45ad.png)
+![t2-01](https://user-images.githubusercontent.com/67748452/165385896-e407de68-6e0c-4810-af38-2218f8da982d.png)
+![t2-02](https://user-images.githubusercontent.com/67748452/165385897-1ec92dd3-9eda-41b1-8e17-40a30c57132a.png)
+![t2-03](https://user-images.githubusercontent.com/67748452/165385899-46c5df74-82ba-4f17-beb4-effe65938177.png)
+![t3-01](https://user-images.githubusercontent.com/67748452/165385902-02b00906-3a9f-4d7c-a7e1-ac63eb20c27b.png)
+![t4-01](https://user-images.githubusercontent.com/67748452/165385906-d8fc7545-32e8-40d6-8bd7-930fda993e09.png)
+![t5-01](https://user-images.githubusercontent.com/67748452/165385908-6e2c081b-1886-4b8e-b917-686a1f337c8e.png)
+![t5-02](https://user-images.githubusercontent.com/67748452/165385910-75c885d6-7d28-42c4-99b3-e294dac29951.png)
+![t6-01](https://user-images.githubusercontent.com/67748452/165385913-266c04e4-9c89-476f-ac68-4b4e72665c3d.png)
+![t7-01](https://user-images.githubusercontent.com/67748452/165385914-53fe4230-4a74-40c5-9692-bba1b375568d.png)
+![t7-02](https://user-images.githubusercontent.com/67748452/165385916-0f97ddf9-82ba-45f1-b390-fb2c544bdd64.png)
+![t8-01](https://user-images.githubusercontent.com/67748452/165385917-42b5706a-a26c-44ee-8c32-6841ef2c04ba.png)
+![t8-02](https://user-images.githubusercontent.com/67748452/165385920-09849084-4bff-4d3a-b99d-ce177cfaabb6.png)
+![t8-03](https://user-images.githubusercontent.com/67748452/165385921-775ba7bc-d652-41f1-a22e-1c4e4ce8c7da.png)
+
