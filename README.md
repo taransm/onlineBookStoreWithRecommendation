@@ -29,7 +29,6 @@
 </li>
 </ul>
 <h3 id="preliminary-technical-tools">Preliminary technical tools</h3>
-<p>The project will be developed based on the EC components from the labs and assignments of the course, and use the following basic tools.</p>
 <ul>
 <li>
 Eclipse
