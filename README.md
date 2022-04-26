@@ -1,35 +1,3 @@
-# onlineBookStoreWithRecommendation
-<head>
-    <title> Book Store with Recommendation System</title>
-  <style type="text/css">
-     h1 {
-counter-reset: section;
-}
-
-h2 {
-counter-reset: subsection; 
-counter-increment: section;
-}
-
-h2:before {
-content: counter(section) ". ";
-counter-reset: subsection;
-}
-
-h3:before {
-content: counter(section) "." counter(subsection) " ";
-counter-increment: subsection;
-}
-
-table, th, td {
-  border: 1px solid black;
-}
-body{
-  font-size: 1.25em;
-}
-  </style>
-  
-</head>
 <body>
 <header>
 <h1 class="title" style="text-align: center;">Book Store with Recommendation System</h1>
