@@ -28,10 +28,7 @@ body{
   font-size: 1.25em;
 }
   </style>
-  <link rel="stylesheet" href="proposal.css" />
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
+  
 </head>
 <body>
 <header>
