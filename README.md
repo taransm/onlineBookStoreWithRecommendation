@@ -52,10 +52,9 @@ JavaServer Pages (JSP)
 WildFly
 </li>
 </ul>
-  </br>
-    <p>Dataset source : https://www.kaggle.com/datasets/anmolkumar/predict-book-prices</p>
-    </br>
- ![t2-01](https://user-images.githubusercontent.com/67748452/165387019-15f980aa-c003-4954-8a50-45f2383d0bc3.png)
+ 
+    
+![t2-01](https://user-images.githubusercontent.com/67748452/165387019-15f980aa-c003-4954-8a50-45f2383d0bc3.png)
 ![t2-02](https://user-images.githubusercontent.com/67748452/165387020-f7744688-fc63-4e55-b66d-fdae99a0b8b2.png)
 ![t2-03](https://user-images.githubusercontent.com/67748452/165387021-abefbfa4-d4cd-4467-a424-1c58e7202ba1.png)
 ![t3-01](https://user-images.githubusercontent.com/67748452/165387022-84a41433-4385-4c8e-a431-f6a2d8389ad6.png)
