@@ -1,0 +1,43 @@
+package clients;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+import bookstore.model.User;
+import bookstore.repository.UserRepository;
+
+import java.io.IOException;
+import java.util.List;
+
+public class EMTest {
+	
+	public static void main(String[] args) throws IOException {
+        EntityManagerFactory entityManagerFactory = Persistence.createEntityManagerFactory("bookstore");
+        EntityManager entityManager = entityManagerFactory.createEntityManager();
+        UserRepository userrepository = new UserRepository(entityManager);
+
+        User user = new User("admin");
+        User savedUser = userrepository.create(user);
+        System.out.println("Saved User: " + savedUser.getUsername());
+        
+        User findUser = userrepository.findById(savedUser.getUserid());
+        System.out.println("Find user by id:");
+        if ( findUser != null) System.out.println(findUser.toString());
+       
+        findUser = userrepository.findByID(savedUser.getUserid());
+        System.out.println("Find user by ID (query):");
+        if ( findUser != null) System.out.println(findUser.toString());
+        
+        findUser = userrepository.findByUsername("guest");
+        System.out.println("Find user by name:");
+        if ( findUser != null) System.out.println(findUser.toString());
+        
+        List<User> users = userrepository.findAll();
+        System.out.println("Users:");
+        users.forEach(System.out::println);
+       
+        entityManager.close();
+        entityManagerFactory.close();
+    }
+}
