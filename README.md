@@ -28,7 +28,7 @@
 <b>View (along with Recommended books) -</b> when a user clicks a book, it will display details of the selected book, on this page we will recommend similar books, related to the item the user is looking for.
 </li>
 </ul>
-<h3 id="preliminary-technical-tools">Preliminary technical tools</h3>
+<h3 id="preliminary-technical-tools">Technical tools</h3>
 <ul>
 <li>
 Eclipse
